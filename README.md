@@ -48,5 +48,3 @@ A **frontend-only** e-commerce website built purely with HTML, CSS (W3.CSS frame
 ---
 
 *Note: This is a frontend prototype. No actual transactions occur.*
-
-L
